@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Debasmita Mondal 👋  
 
-<!--
-**debasmita7115-sys/debasmita7115-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+🔭 I’m currently working on improving my problem-solving skills and building projects in **software development**  
+🌱 I’m currently learning **Data Structures & Algorithms, Web Development, and System Design**  
+👯 I’m looking to collaborate on **open-source projects and beginner-friendly tech ideas**  
+🤔 I’m looking for help with **advanced DSA concepts and real-world project architecture**  
+💬 Ask me about **C / C++ / Java / Python basics, GitHub, or getting started in tech**  
+📫 How to reach me: **[your email / LinkedIn here]**  
+😄 Pronouns: **She/Her**  
+⚡ Fun fact: I enjoy learning new tech stacks and turning ideas into working code 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Python  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Exploring:** Web Development & Competitive Programming  
+
+---
+
+### 📊 GitHub Stats
+*(You can add GitHub stats cards later if you want — I can help with that too!)*
+
+⭐ Thanks for visiting my profile!
+
